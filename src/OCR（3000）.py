@@ -5,12 +5,6 @@ from PIL import Image
 data_file = 'checkcode.json'
 
 
-
-
-
-
-
-
 	
 '''
 数据分析：
