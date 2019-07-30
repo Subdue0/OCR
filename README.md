@@ -1,13 +1,7 @@
-Python3 完成校园网认证
+验证码识别（Python3.7）
 =====================
 
-
-适用学校：<br>
----------------------
-    东莞理工学院城市学院
+ 
 适用环境：<br>
 ---------------------
-    Win7，Win10
-程序链接 ：<br>
---------------------
-    https://github.com/Subdue0/CCDGUTNetAutoLogin/releases/download/2.0/CCDGUT.rar
+    正方教务系统登录
